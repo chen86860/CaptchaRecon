@@ -1,0 +1,14 @@
+{
+  "name": "captcha-recon",
+  "version": "1.0.0",
+  "main": "lib/Captcha.js",
+  "license": "MIT",
+  "repository": "http://github.com",
+  "dependencies": {
+    "is-stream": "^1.1.0",
+    "request": "^2.87.0"
+  },
+  "keywords": [
+    "captcha"
+  ]
+}
