@@ -1,4 +1,4 @@
-const Captcha = require('captcha-recon')
+const Captcha = require('captcha-rec')
 const captcha = new Captcha({
   username: '',    // Lianzhong username
   password: '',    // Lianzhong password

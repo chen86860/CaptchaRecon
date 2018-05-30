@@ -7,14 +7,14 @@
 This module requires a minimum of Node v6.9.0
 
 ## Getting Started
-To begin, you'll need to install `captcha-recon`:
+To begin, you'll need to install `captcha-rec`:
 ``` bash
-npm i captcha-recon 
-// or yarn add captcha-recon
+npm i captcha-rec 
+// or yarn add captcha-rec
 ```
 using in Node.js
 ``` javascript
-const Captcha = require('captcha-recon')
+const Captcha = require('captcha-rec')
 const captcha = new Captcha({
   username: '',    // Lianzhong username, see below [Options](## Options)
   password: '',    // Lianzhong password, see below
